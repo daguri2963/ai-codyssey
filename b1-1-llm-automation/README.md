@@ -1,8 +1,7 @@
 # 미션 : GenAI 기초 1:LLM기반 업무 자동화
-## 1.LLM 모델 비교-선정 보고서
+## [1.LLM 모델 비교-선정 보고서](./llm-comparison.md)
 ## [2.시스템 설계 문서](./system-design.md)
-
-## 3.실행 로그
+## [3.실행 로그](./execution-log.md)
 
 ---
 [🏠 메인으로 돌아가기](../README.md)
