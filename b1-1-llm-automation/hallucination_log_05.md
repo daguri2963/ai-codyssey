@@ -37,4 +37,4 @@
 
 </details>
 
-[돌아가기](./README.md)
+[돌아가기](./system-design.md#7-환각-검증-설계)
