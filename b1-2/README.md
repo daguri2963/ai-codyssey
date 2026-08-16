@@ -25,7 +25,7 @@ Scene 1 (2초)
 
 A 3D Pixar-style middle school girl with short bobbed hair, seen from behind. She is wearing a formal navy blue school blazer with grey lapel lines and a striped bow tie (matching her uniform). She is sitting at a desk in a classroom, clutching her head in frustration. In front of her, a large green blackboard is filled with various middle school math and physics: quadratic function graphs, several geometric diagrams, and formulas like F=ma, V=IR, and algebraic equations. The blackboard looks busy and challenging but recognizable as school subjects. Cinematic classroom lighting, high detail.
 
-생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지)
+파일명(씬 1-1.png)
 
 
 
@@ -35,7 +35,8 @@ Scene 2 (3초)
 내레이션(나한테 물어봐! 내가 알려줄게)
 사용 도구(GPT Image2/pika/gemini-2.5-flash-tts)이미지생성/동영상변환/나래이션
 입력 프롬프트(A 3D Pixar-style scene. A middle school girl with short bobbed hair, wearing a navy blue school blazer, is leaning in to look at her smartphone on the desk. On the glowing smartphone screen, a tiny, cute reddish-brown raccoon (red panda mix) with a striped tail is waving and talking to her. The girl looks surprised and curious. The background is the back of the classroom with wooden lockers and a bulletin board, soft focus. Warm, magical atmosphere, cinematic lighting, high detail.)
-생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지)
+
+파일명(씬 2-2.png)
 
 
 Scene 3 (3초)	
@@ -43,8 +44,8 @@ Scene 3 (3초)
 화면 구성(구도/피사체/배경/텍스트 유무)
 내레이션(아 이래서 그런거구나!)
 사용 도구(GPT Image2/pika/gemini-2.5-flash-tts)이미지생성/나래이션
-입력 프롬프트(A 3D Pixar-style scene. Return to the original characters: A middle school girl with short bobbed hair, wearing a navy blue school blazer and a striped bow tie. She is sitting at her desk with the tiny reddish-brown raccoon (red panda mix) from the phone scene. They are looking at a glowing blue holographic physics formula "F=ma" floating above a textbook. The girl has a bright, happy "Aha!" expression. The raccoon is pointing at the formula like a cute teacher. High detail, cinematic lighting, same classroom background.) + 출력 결과 요약(한 줄)
-생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지)
+입력 프롬프트(A 3D Pixar-style scene. Return to the original characters: A middle school girl with short bobbed hair, wearing a navy blue school blazer and a striped bow tie. She is sitting at her desk with the tiny reddish-brown raccoon (red panda mix) from the phone scene. They are looking at a glowing blue holographic physics formula "F=ma" floating above a textbook. The girl has a bright, happy "Aha!" expression. The raccoon is pointing at the formula like a cute teacher. High detail, cinematic lighting, same classroom background.)
+파일명(씬 3-2.png)
 
 
 Scene 4 (2초)
@@ -53,7 +54,7 @@ Scene 4 (2초)
 내레이션(나만의 단어 학습.다너구리.)
 사용 도구(GPT Image2/gemini-2.5-flash-tts)로고 이미지생성/나래이션
 입력 프롬프트(Korean wordmark logo reading "다너구리", bold rounded Hangul letters with raccoon tail stripe patterns, warm brown and cream colors, dark brown outline, flat vector style, centered on white background, minimal and highly readable, add only a tiny amount of bamboo decoration, just a few small bamboo leaves or one small bamboo shoot, very subtle, not distracting)
-생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지)
+파일명(아이콘.png)(다너구리.png)
 
 
 ---
